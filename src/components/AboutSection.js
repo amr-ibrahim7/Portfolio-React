@@ -80,7 +80,7 @@ const AboutSection = () => (
           to the audience through my design.
         </PText>
         <div className="aboutSection__buttons">
-          <Button btnLink="/projects" btnText="Works" />
+          <Button btnLink="/project" btnText="Works" />
           <Button btnLink="/about" btnText="Read More" outline />
         </div>
       </div>

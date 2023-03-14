@@ -158,7 +158,7 @@ const HeroSection = () => (
             I am working as a freelance web designer and developer for 2 years.
             I love to design and make new web experiences for the people.
           </PText>
-          <Button btnText="see my works" btnLink="/projects" />
+          <Button btnText="see my works" btnLink="/project" />
         </div>
         <div className="hero__social">
           <div className="hero__social__indicator">
