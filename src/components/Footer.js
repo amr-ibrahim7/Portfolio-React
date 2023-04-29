@@ -141,7 +141,7 @@ export default function Footer() {
             <a
               target="_blank"
               rel="noreferrer"
-              href="http://webcifar.https://www.facebook.com/profile.php?viewas=100000686899395&id=100009034623362"
+              href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100009034623362"
             >
               Web_Minds
             </a>
